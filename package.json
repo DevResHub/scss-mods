@@ -1,13 +1,25 @@
 {
   "name": "scss-mods",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "SCSS-MOD",
   "main": "scss/main.scss",
   "files": [
     "scss"
   ],
-  "keywords": ["scss", "css", "styles"],
+  "keywords": [
+    "scss",
+    "css",
+    "styles"
+  ],
   "scripts": {},
   "author": "jasurhaydarovcode",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevResHub/scss-mods.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevResHub/scss-mods/issues"
+  },
+  "homepage": "https://github.com/DevResHub/scss-mods#readme"
 }
