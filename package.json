@@ -1,0 +1,13 @@
+{
+  "name": "scss-mods",
+  "version": "1.2.0",
+  "description": "SCSS-MOD",
+  "main": "scss/main.scss",
+  "files": [
+    "scss"
+  ],
+  "keywords": ["scss", "css", "styles"],
+  "scripts": {},
+  "author": "jasurhaydarovcode",
+  "license": "ISC"
+}
