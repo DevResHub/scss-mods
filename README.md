@@ -14,7 +14,7 @@
 
 ### NPM Yordamida Structurani O'rnatish
 ```bash
-npm i 
+npm i scss-mods
 ```
 
 ## Loyihaning fayl structurasi
