@@ -12,9 +12,14 @@
 
 ---
 
-### NPM Yordamida Structurani O'rnatish
+### 1. NPM Yordamida Structurani O'rnatish
 ```bash
 npm i scss-mods
+```
+
+### 2. Loyihani `Node_Modules`dan olish
+```bash
+mv node_modules/scss-mods/scss* .
 ```
 
 ## Loyihaning fayl structurasi
