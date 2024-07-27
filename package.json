@@ -1,6 +1,6 @@
 {
   "name": "scss-mods",
-  "version": "1.3.0",
+  "version": "2.0.0",
   "description": "SCSS-MOD",
   "main": "scss/main.scss",
   "files": [
@@ -11,7 +11,9 @@
     "css",
     "styles"
   ],
-  "scripts": {},
+  "scripts": {
+    "postinstall": "cp -r node_modules/scss-mods/scss ./scss"
+  },
   "author": "jasurhaydarovcode",
   "license": "ISC",
   "repository": {
