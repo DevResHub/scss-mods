@@ -12,9 +12,30 @@
 
 ---
 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png?f=webp&w=256" width="100">
+
+
+## NPM
+
 ### 1. NPM Yordamida Structurani O'rnatish
 ```bash
 npm i scss-mods
+```
+
+### 2. Loyihani `Node_Modules`dan olish
+```bash
+mv node_modules/scss-mods/scss* .
+```
+
+---
+
+<img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" width="100">
+
+## YARN
+
+### 1. YARN Yordamida Structurani O'rnatish
+```bash
+yarn add scss-mods
 ```
 
 ### 2. Loyihani `Node_Modules`dan olish
